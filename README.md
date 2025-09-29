@@ -126,7 +126,7 @@ gpt-4o-mini、gpt-4o、gpt-4o-all、gpt-4、gpt-4-all、o3-mini、claude、gemin
         </tr>
         <tr>
             <td>5</td>
-            <td> <a href="https://link.cv58.xyz/" target="_blank">https://link.fuckicoding.com/</a>
+            <td> <a href="https://link.cv58.xyz/" target="_blank">https://link.cv58.xyz/</a>
                 <br> </td>
             <td>
                         🆓
